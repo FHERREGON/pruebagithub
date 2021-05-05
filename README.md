@@ -1,2 +1,3 @@
 # pruebagithub
-Hola que tal
+Hola, ¿qué tal?
+Estos son mis primeros pasos en GitHub :)!
